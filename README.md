@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raa21
 - 👀 I’m interested in Data Analysis, Data Visualization, Image Processing, NLP
-- 🌱 I’m currently learning Machine Learning,Deep learning
+- 🌱 I’m currently learning Deep learning in Image processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rajendrabera.raja21@outlook.com
 
